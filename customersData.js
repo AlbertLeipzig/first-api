@@ -1,0 +1,73 @@
+export const customersData = [
+  {
+    id: "8dfb92e7a92fc604c6a19c3c",
+    firstName: "Orlo",
+    lastName: "Rippin",
+    address: {
+      street: "Lesch Bypass",
+      number: "268",
+      city: "North Dejuanborough",
+      zip: "97556",
+    },
+    email: "Antonietta.Berge28@hotmail.com",
+    purchasedProducts: [
+      "089af700f76bde3dfcbc8a1b",
+      "d09e6d9deecff3579bce9eab",
+      "dcec90112efee80ed6ba2e02",
+      "8e3c728ec5e34fb3dc6d564e",
+    ],
+    likedProducts: [],
+  },
+  {
+    id: "da57ec0290dd5048db3c7b0f",
+    firstName: "Tito",
+    lastName: "O'Conner",
+    address: {
+      street: "S 14th Street",
+      number: "494",
+      city: "Feeneyborough",
+      zip: "84373",
+    },
+    email: "Jamison31@hotmail.com",
+    purchasedProducts: [],
+    likedProducts: [
+      "be138a9ec7e0b9fa7644cd66",
+      "ba9de60aaab3df8dcaa345d6",
+      "ad4e4afefddc5b18dec0e54e",
+      "dbdcc3bbbfbd6bce4c6e5bbf",
+    ],
+  },
+  {
+    id: "0cf640bbcc801e76dc5d36f3",
+    firstName: "Hillard",
+    lastName: "Kuvalis",
+    address: {
+      street: "Poplar Avenue",
+      number: "803",
+      city: "South Parisland",
+      zip: "36234-1194",
+    },
+    email: "Tyrel98@yahoo.com",
+    purchasedProducts: ["9ecece5f534b0cfc2aeceeda", "41092f92faeb4d4dacfbaa7f"],
+    likedProducts: [
+      "63fdeef69ab2dadaf146e1d0",
+      "3010b9033bfddac815a30ef3",
+      "91afefd807ee33d465dcaa3a",
+      "a29f95dd81dd36a8f9a81484",
+    ],
+  },
+  {
+    id: "5d43ec8c1fce55d6a7ebf5d9",
+    firstName: "Dusty",
+    lastName: "Hansen",
+    address: {
+      street: "Windmill Close",
+      number: "383",
+      city: "West Marlene",
+      zip: "27653-6050",
+    },
+    email: "Golden_Veum43@hotmail.com",
+    purchasedProducts: ["afd2c8ab42c7db25d1555bcf"],
+    likedProducts: [],
+  },
+];
